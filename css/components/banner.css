@@ -1,0 +1,19 @@
+.banner {
+  background-image: linear-gradient(-225deg, rgba(200,100,100,0.4) 0%, rgba(255,150,100,0.3) 50%), url("https://static.actu.fr/uploads/2020/06/2489-200608110800313-001-960x640.jpg");
+	background-size: cover;     
+	background-position: center;
+  padding: 150px 0px;
+  color: white;
+}
+.banner h1 {
+  color: black;
+  font-size: 50px;
+  opacity: 0.9;
+}
+.banner h2 {
+  color: black;
+  font-size: 30px;
+  font-weight: lighter;
+  opacity: 0.9;
+  margin-bottom: 40px;
+}
